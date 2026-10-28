@@ -2,17 +2,16 @@
 
 ComputerWorld — simulated computers, phones and an internet that run in one process,
 replay to the byte, and turn expert work into verified training data for computer-use
-agents — is now built by **COMPUTACO INC.** and offered as a hosted service:
+agents — is now a product of **COMPUTACO INC.** and offered as a hosted service:
 
-### **[computerworld.pages.dev](https://computerworld.pages.dev)**
+### **[computaco.ai](https://computaco.ai)**
 
-**[Sign up and get an API key →](https://computerworld.pages.dev/console/create-account.html)**
+**[Sign up and get an API key →](https://computaco.ai/console/create-account.html)**
 
-- **Docs:** <https://computerworld.pages.dev/docs/>
-- **Python client:** [ComputaCo/computerworld-python](https://github.com/ComputaCo/computerworld-python) (MIT)
-  `pip install "computerworld-cloud @ git+https://github.com/ComputaCo/computerworld-python.git"`
-- **JavaScript client:** [ComputaCo/computerworld-js](https://github.com/ComputaCo/computerworld-js) (MIT)
-  `npm install github:ComputaCo/computerworld-js`
+- **Docs:** <https://computaco.ai/docs/>
+- **Clients (Python and JavaScript, MIT):** [ComputaCo/computerworld](https://github.com/ComputaCo/computerworld)
+  - `pip install "computerworld-cloud @ git+https://github.com/ComputaCo/computerworld.git#subdirectory=python"`
+  - `npm install github:ComputaCo/computerworld`
 
 The engine's source is now private. The open releases already published — `computerworld`
 up to 0.3.0 on [PyPI](https://pypi.org/project/computerworld/) and
